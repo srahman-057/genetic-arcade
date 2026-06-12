@@ -2,7 +2,7 @@
 
 Genetic-Arcade is a python based project that showcases the power of genetic algorithms in a variety of visual environments. 
 
-<img width="599" height="827" alt="genetic_arcade_ss" src="https://github.com/user-attachments/assets/60c16445-01f1-48a4-a645-1abbb1f25acf" />
+<img align="center" width="599" height="827" alt="genetic_arcade_ss" src="https://github.com/user-attachments/assets/60c16445-01f1-48a4-a645-1abbb1f25acf" />
 
 ## Required python modules
 
